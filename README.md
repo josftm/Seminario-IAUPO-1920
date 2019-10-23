@@ -1,5 +1,5 @@
 # Seminario de Deep Learning.
-## Ingeligencia Artificial - Universidad Pablo de Olavide
+Ingeligencia Artificial - Universidad Pablo de Olavide
 ---
 Hola a tod@s!
 
