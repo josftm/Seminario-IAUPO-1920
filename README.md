@@ -19,23 +19,36 @@ En este seminario trabajaremos fundamentalmente con Tensorflow: una librería de
 
 Además, necesitaremos una serie de librerías y paquetes que nos facilitarán la tarea de trabajar con imágenes y otras operaciones.
 
-### Lo más importante: Datos
+### 1. Lo más importante: Datos
 Obviamente, sin datos no podemos trabajar. Mi intención en este seminario es acercanos lo máximo posible a un problema del mundo real, por lo que no vamos a partir de datos ya procesados, lo vamos a hacer nosotros (o intentarlo :innocent:).
 
 Vamos a trabajar con imágenes, concretamente con un conjunto de datos de **25.000 imágenes** de perros y gatos (la mitad de ellas de :dog2: y la otra mitad de :cat2:).
 
-En este repositorio hay disponible algunas de las imágenes a modo de ejemplo, pero el conjunto de datos completo lo debéis descargar desde [aquí](https://upolavide-my.sharepoint.com/:u:/g/personal/jftormal_upo_es/ETUU1VU8cI1NhWpnjPkzPgIBn0NyBIPtZjeLUdUQKIPVoQ?e=ubtnSw).
+En este repositorio hay disponible algunas de las imágenes a modo de ejemplo, pero **el conjunto de datos completo lo debéis descargar desde [aquí](https://upolavide-my.sharepoint.com/:u:/g/personal/jftormal_upo_es/ETUU1VU8cI1NhWpnjPkzPgIBn0NyBIPtZjeLUdUQKIPVoQ?e=ubtnSw).**
 
-### Fuente de los cuadernos
+### 2. Fuente de los cuadernos
 Como entorno de desarrollo vamos a usar Jupyter notebook (ya debéis saber lo que es :wink:). Os he preparado unas plantillas de los cuatro notebooks que vamos a usar, que lo podéis descargar desde esta misma página.
 
-### Máquina virtual disponible
+### 3. Máquina virtual disponible
 Para no extendernos demasiado en el tiempo del seminario y estar configurando todo el entorno e instalando los paquetes que vamos a necesitar, he creado una **máquina virtual** en VirtualBox con un *Linux Mint*, que tenéis disponible en [este enlace](https://www.google.com). Con descargar la máquina virtual y abrirla en VirtualBox tendréis lo necesario para seguir el seminario, ya que los datos y los archivos que váis a necesitar están todos dentro del directorio ```/home/ia/seminario ```
+
+¿Usuario y contraseña? Os lo digo en clase :smirk:
 
 **IMPORTANTE**: La máquina virtual ocupa unos 20GB y está configurada para que use unos 5GB de memoria RAM, por lo que debéis de estar seguros que tenéis recursos suficientes para soportar la VM.
 
-### ¿Prefieres usar tu máquina directamente? ¡Aquí te explico como!
+### 4. ¿Prefieres usar tu máquina directamente? ¡Aquí te explico como!
+Si por el contrario quieres utilizar toda la potencia de tu máquina y tener el entorno preparado para futuras experimentaciones, os dejo una pequeña guía de los pasos que necesitáis ejecutar desde un terminal para tener el entorno en un sistema basado en Ubuntu:
 
-Para el desarrollo del seminario, se tiene disponible una máquina virtual en VirtualBox con el entorno preparado y listo para ser usado. La máquina se puede descargar a través de: 
+#### Descargar e instalar Anaconda
+```
+cd /tmp 
+curl -O https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
+sha256sum Anaconda3-2019.03-Linux-x86_64.sh
+bash Anaconda3-2019.03-Linux-x86_64.sh
+```
+La secuencia de comandos anterior descargará el instalador de [Anaconda](https://www.anaconda.com/distribution/). Al ejecutarlo pedirá varias confirmaciones, y nosotros haremos lo mismo de siempre: *siguiente, siguiente y siguiente*.
 
-Esta máquina virtual ocupa unos 20Gb de tamaño en disco, y está configurada para hacer uso de unos 5Gb de memoria RAM.
+``` 
+cd 
+source .bashrc
+```
