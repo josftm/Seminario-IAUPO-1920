@@ -72,7 +72,8 @@ conda install matplotlib
 conda install pillow
 ```
 
-Fácil, ¿no? si tienes alguna duda o problema y quieres escribirme, te intento ayudar en lo que pueda. Sólo escribeme a jftormal@upo.es
+Fácil, ¿no? si tienes alguna duda o problema y quieres que te eche una mano, te intento ayudar en lo que pueda. 
+Solo tienes que escribeme a jftormal@upo.es
 
 **NOTA IMPORTANTE:** ¡Cuidado con la compatibilidad de las versiones!
 
