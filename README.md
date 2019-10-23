@@ -3,7 +3,7 @@
 
 *Impartido por: José F. Torres AKA Pepe*
 
-===
+----
 ¡Hola a tod@s!
 
 Antes de nada, quería daros la bienvenida y animaros en estos momentos en los que seguro tenéis una carga de trabajo considerable entre todas las clases, exámenes parciales y entregas. Todo esfuerzo tiene su recompensa, y antes o después os daréis cuenta que todo este esfuerzo merece la pena :stuck_out_tongue_winking_eye:
@@ -24,8 +24,10 @@ Obviamente, sin datos no podemos trabajar. Mi intención en este seminario es ac
 
 Vamos a trabajar con imágenes, concretamente con un conjunto de datos de **25.000 imágenes** de perros y gatos (la mitad de ellas de :dog2: y la otra mitad de :cat2:).
 
-En este repositorio hay disponible 
+En este repositorio hay disponible algunas de las imágenes a modo de ejemplo, pero el conjunto de datos completo lo debéis descargar desde [aquí](https://upolavide-my.sharepoint.com/:u:/g/personal/jftormal_upo_es/ETUU1VU8cI1NhWpnjPkzPgIBn0NyBIPtZjeLUdUQKIPVoQ?e=ubtnSw).
 
+### Fuente de los cuadernos
+Como entorno de desarrollo vamos a usar Jupyter notebook (ya debéis saber lo que es :wink:). Os he preparado unas plantillas de los cuatro notebooks que vamos a usar, que lo podéis descargar desde esta misma página.
 
 ### Máquina virtual disponible
 Para no extendernos demasiado en el tiempo del seminario y estar configurando todo el entorno e instalando los paquetes que vamos a necesitar, he creado una **máquina virtual** en VirtualBox con un *Linux Mint*, que tenéis disponible en [este enlace](https://www.google.com). Con descargar la máquina virtual y abrirla en VirtualBox tendréis lo necesario para seguir el seminario, ya que los datos y los archivos que váis a necesitar están todos dentro del directorio ```/home/ia/seminario ```
