@@ -1,3 +1,5 @@
-# Seminario de Deep Learning. 
-## Inteligencia Artificial
-Seminario Deep Learning en la asignatura de Inteligencia Artificial - curso 2019/2020
+# Seminario de Deep Learning en Ingeligencia Artificial
+## Universidad Pablo de Olavide
+
+---
+Hola a tod@s!
