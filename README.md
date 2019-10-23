@@ -47,8 +47,33 @@ sha256sum Anaconda3-2019.03-Linux-x86_64.sh
 bash Anaconda3-2019.03-Linux-x86_64.sh
 ```
 La secuencia de comandos anterior descargará el instalador de [Anaconda](https://www.anaconda.com/distribution/). Al ejecutarlo pedirá varias confirmaciones, y nosotros haremos lo mismo de siempre: *siguiente, siguiente y siguiente*.
-
 ``` 
 cd 
 source .bashrc
 ```
+
+#### Creación del entorno virtual de python e instalación de librerías
+```
+conda create --name iaenv python=3.6.0
+conda activate iaenv
+sudo apt-get install python3-pip
+conda install tensorflow
+pip3 install numpy=1.16.4
+conda install keras
+
+sudo apt  install jupyter-core
+sudo apt-get install jupyter
+sudo apt-get install python3-setuptools
+
+conda install opencv
+conda install matplotlib
+
+pip install imutils
+pip3 install sklearn
+conda install pillow
+```
+
+Fácil, ¿no? si tienes alguna duda o problema y quieres escribirme, te intento ayudar en lo que pueda. Sólo escribeme a jftormal@upo.es
+
+**NOTA IMPORTANTE:** ¡Cuidado con la compatibilidad de las versiones!
+
