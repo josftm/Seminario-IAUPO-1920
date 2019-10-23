@@ -30,7 +30,7 @@ En este repositorio hay disponible algunas de las imágenes a modo de ejemplo, p
 Como entorno de desarrollo vamos a usar Jupyter notebook (ya debéis saber lo que es :wink:). Os he preparado unas plantillas de los cuatro notebooks que vamos a usar, que lo podéis descargar desde esta misma página.
 
 ### 3. Máquina virtual disponible
-Para no extendernos demasiado en el tiempo del seminario y estar configurando todo el entorno e instalando los paquetes que vamos a necesitar, he creado una **máquina virtual** en VirtualBox con un *Linux Mint*, que tenéis disponible en [este enlace](https://www.google.com). Con descargar la máquina virtual y abrirla en VirtualBox tendréis lo necesario para seguir el seminario, ya que los datos y los archivos que váis a necesitar están todos dentro del directorio ```/home/ia/seminario ```
+Para no extendernos demasiado en el tiempo del seminario y estar configurando todo el entorno e instalando los paquetes que vamos a necesitar, he creado una **máquina virtual** en VirtualBox con un *Linux Mint*, que tenéis disponible en [este enlace](https://upolavide-my.sharepoint.com/:u:/g/personal/jftormal_upo_es/ET7qm2nyhghLhuocpTT2glMBI503FYBLusu8f3rB-biLPg?e=rIXr5Q). Con descargar la máquina virtual y abrirla en VirtualBox tendréis lo necesario para seguir el seminario, ya que los datos y los archivos que váis a necesitar están todos dentro del directorio ```/home/ia/seminario ```
 
 ¿Usuario y contraseña? Os lo digo en clase :smirk:
 
