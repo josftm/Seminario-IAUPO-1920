@@ -56,20 +56,19 @@ source .bashrc
 ```
 conda create --name iaenv python=3.6.0
 conda activate iaenv
-sudo apt-get install python3-pip
-conda install tensorflow
-pip3 install numpy=1.16.4
-conda install keras
 
+sudo apt-get install python3-pip
 sudo apt  install jupyter-core
 sudo apt-get install jupyter
 sudo apt-get install python3-setuptools
 
+pip3 install numpy=1.16.4
+pip3 install sklearn
+pip install imutils
+conda install tensorflow
+conda install keras
 conda install opencv
 conda install matplotlib
-
-pip install imutils
-pip3 install sklearn
 conda install pillow
 ```
 
