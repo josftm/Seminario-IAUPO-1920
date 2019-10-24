@@ -32,10 +32,11 @@ Dentro de la carpeta ```src/dataset/``` de este repositorio hay disponible algun
 
 ### 2. Fuente de los cuadernos Jupyter
 Como entorno de desarrollo vamos a usar Jupyter notebook (ya debéis saber lo que es :wink:). Os he preparado unas plantillas de los cuatro notebooks que vamos a usar, que lo podéis descargar desde esta misma página:
-**1. PARTE I - INTRODUCCIÓN.ipynb**: Una breve introducción a Jupyter para aquell@s que no sepan todavía lo que es y no estén familiarizados.
-**2. PARTE II - PERROS VS GATOS ANN.ipynb**: Aquí implementaremos nuestra red neuronal simple, llamada perceptrón multicapa (el que habéis visto en clase), para resolver el problema que planteamos.
-**3. PARTE III - CONVOLUCION.ipynb**: Haremos un ejemplo de convolución y veremos cómo podemos extraer información de utilidad de una imagen aplicando una serie de filtros.
-**4. PARTE IV - PERROS VS GATOS CNN.ipynb**: ¡Lo bueno se hace esperar! Desarrollamos nuestro modelo usando redes convolucionales, y compararemos los resultados con los obtenidos en el apartado 2.
+
+1. **PARTE I - INTRODUCCIÓN.ipynb**: Una breve introducción a Jupyter para aquell@s que no sepan todavía lo que es y no estén familiarizados.
+2. **PARTE II - PERROS VS GATOS ANN.ipynb**: Aquí implementaremos nuestra red neuronal simple, llamada perceptrón multicapa (el que habéis visto en clase), para resolver el problema que planteamos.
+3. **PARTE III - CONVOLUCION.ipynb**: Haremos un ejemplo de convolución y veremos cómo podemos extraer información de utilidad de una imagen aplicando una serie de filtros.
+4. **PARTE IV - PERROS VS GATOS CNN.ipynb**: ¡Lo bueno se hace esperar! Desarrollamos nuestro modelo usando redes convolucionales, y compararemos los resultados con los obtenidos en el apartado 2.
 
 ### 3. Máquina virtual disponible
 Para no extendernos demasiado en el tiempo del seminario y tener que configurar todo el entorno e instalar los paquetes que vamos a necesitar, he creado una **máquina virtual** en VirtualBox con *Linux Mint*, que tenéis disponible en [este enlace](https://upolavide-my.sharepoint.com/:u:/g/personal/jftormal_upo_es/ET7qm2nyhghLhuocpTT2glMBI503FYBLusu8f3rB-biLPg?e=rIXr5Q). Con descargar la máquina virtual y abrirla en VirtualBox tendréis lo necesario para seguir el seminario, ya que los datos y los archivos que vais a necesitar están todos dentro del directorio ```/home/ia/seminario ``` de dicha máquina.
