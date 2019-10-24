@@ -43,7 +43,7 @@ Para no extendernos demasiado en el tiempo del seminario y tener que configurar 
 
 ¿Qué?, ¿que no sabéis el usuario y la contraseña? Os lo digo en clase, aunque seguro que la mayoría sois capaces de sacarlo sin problemas :smirk:
 
-**IMPORTANTE**: La máquina virtual ocupa unos 20GB y está configurada para que use unos 5GB de memoria RAM, por lo que debéis estar seguros que tenéis recursos suficientes para soportar la VM.
+:bangbang: **IMPORTANTE**: La máquina virtual ocupa unos 20GB y está configurada para que use unos 5GB de memoria RAM, por lo que debéis estar seguros que tenéis recursos suficientes para soportar la VM.
 
 ### * ¿Prefieres usar tu máquina directamente? ¡Aquí te explico como!
 Si por el contrario quieres utilizar toda la potencia de tu máquina y tener el entorno preparado para futuras experimentaciones, os dejo una pequeña guía de los pasos que necesitáis ejecutar desde un terminal para tener el entorno en un sistema basado en Ubuntu (no me voy a parar a explicar qué significa cada una de las sentencias):
@@ -84,5 +84,5 @@ conda install pillow
 Fácil, ¿no? si tienes alguna duda o problema y quieres que te eche una mano, te intento ayudar en lo que pueda. 
 Solo tienes que escribirme a jftormal@upo.es
 
-**NOTA IMPORTANTE:** ¡Cuidado con la compatibilidad de las versiones!
+:bangbang:**NOTA IMPORTANTE:** ¡Cuidado con la compatibilidad de las versiones! :bangbang:
 
