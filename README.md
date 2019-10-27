@@ -24,7 +24,7 @@ Además, necesitaremos una serie de librerías y paquetes que nos facilitarán l
 En resumen, para poder seguir la práctica vamos a necesitar tres recursos fundamentalmente:
 
 ### 1. Lo más importante: Los datos
-Obviamente, sin datos no podemos trabajar. Mi intención es acercanos lo máximo posible a un problema del mundo real, por lo que no vamos a partir de datos ya procesados, lo vamos a hacer nosotros (o intentarlo :innocent:).
+Obviamente, sin datos no podemos trabajar. Mi intención es acercarnos lo máximo posible a un problema del mundo real, por lo que no vamos a partir de datos ya procesados, lo vamos a hacer nosotros (o intentarlo :innocent:).
 
 Vamos a partir de un conjunto de imágenes, que cuenta con **25.000 fotografías** de perros y gatos (la mitad de cada uno).
 
