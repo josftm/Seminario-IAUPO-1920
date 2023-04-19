@@ -1,5 +1,5 @@
 # Seminario de Deep Learning
-**Ingeligencia Artificial - Universidad Pablo de Olavide** 
+**Inteligencia Artificial - Universidad Pablo de Olavide** 
 
 *Impartido por: José F. Torres AKA Pepe*
 
